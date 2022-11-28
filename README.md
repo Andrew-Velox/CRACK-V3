@@ -11,7 +11,7 @@
 <h3 align="center">  RANDOM CRACK  </h3>
 
 
-<!---![20200808_160757](https://github.com/Andrew-Velox/DUMPING/blob/main/Screenshot_2022-11-17-01-21-18-22_84d3000e3f4017145260f7618db1d683.jpg) -->
+![20200808_160757](https://github.com/Andrew-Velox/CRACK-V3/blob/main/ss.jpg)
 
 
 
