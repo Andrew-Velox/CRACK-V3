@@ -19,7 +19,6 @@
 - `rm -rf CRACK-V3`
 - `git clone https://github.com/Andrew-Velox/CRACK-V3`
 - `cd CRACK-V3`
-- `ls`
 - `python run.py`
 
 
